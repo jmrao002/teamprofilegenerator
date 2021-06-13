@@ -111,8 +111,11 @@ html {
 .d-f {
   display: flex;
 }
-.fxg-1 {
-  flex-grow: 1;
+.f-1 {
+  flex: 0 0 25%;
+}
+.fw-w {
+  flex-wrap: wrap;
 }
 .jc-c {
   justify-content: center;
