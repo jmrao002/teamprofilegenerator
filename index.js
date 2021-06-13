@@ -146,7 +146,7 @@ function createTeam() {
         type: "list",
         name: "memberChoice",
         message: "What team member would you like to create?",
-        choices: ["Engineer", "Intern", "Im done with the team"],
+        choices: ["Engineer", "Intern", "I'm done with the team"],
       },
     ])
     .then((userChoice) => {
